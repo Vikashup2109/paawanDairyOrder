@@ -280,7 +280,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Plain Chhach 440ml 26pcs",
     price: 364,
     mrp: 390,
-    image: "https://amul.com/files/products/butter.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/chhach440ml.png",
     category: "dairy",
     inStock: true
   },
@@ -290,7 +290,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Sweet Lassi 320ml 32pcs",
     price: 288,
     mrp: 320,
-    image: "https://amul.com/files/products/cheese.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/sweetlassi.png",
     category: "dairy",
     inStock: true
   },
@@ -320,7 +320,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Dhap Khoya 1kg 1pc",
     price: 320,
     mrp: 450,
-    image: "https://amul.com/files/products/cheese.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/amulkhoya.png",
     category: "dairy",
     inStock: true
   },
