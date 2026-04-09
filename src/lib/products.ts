@@ -220,7 +220,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Full Cream 6L 2pcs",
     price: 800,
     mrp: 840,
-    image: "https://amul.com/files/products/amul-gold.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/gold1ltr.png",
     category: "dairy",
     inStock: true
   },
@@ -230,7 +230,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Full Cream 500ml 24pcs",
     price: 816,
     mrp: 840,
-    image: "https://amul.com/files/products/amul-gold.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/gold500ml.png",
     category: "dairy",
     inStock: true
   },
@@ -240,7 +240,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Masti Dahi 390g 30pcs",
     price: 990,
     mrp: 1050,
-    image: "https://amul.com/files/products/taaza.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/dahi390gm.png",
     category: "dairy",
     inStock: true
   },
@@ -250,7 +250,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Masti Dahi 1kg 12pcs",
     price: 900,
     mrp: 924,
-    image: "https://amul.com/files/products/shakti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/dahi1kg.png",
     category: "dairy",
     inStock: true
   },
@@ -260,7 +260,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Plain Chhach 680ml 16pcs",
     price: 304,
     mrp: 320,
-    image: "https://amul.com/files/products/slim.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/buttermilk680ml.png",
     category: "dairy",
     inStock: true
   },
@@ -270,7 +270,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Masala Chhach 280ml 40pcs",
     price: 360,
     mrp: 400,
-    image: "https://amul.com/files/products/paneer.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/tadka.png",
     category: "dairy",
     inStock: true
   },
@@ -300,17 +300,17 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Lite Curd 5kg 1pc",
     price: 320,
     mrp: 350,
-    image: "https://amul.com/files/products/cheese.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/liteMatka.png",
     category: "dairy",
     inStock: true
   },
   {
     id: "amul-d10",
     name: "Amul Curd Matka Green 5kg",
-    subtitle: "Mast Curd 5kg 1pc",
+    subtitle: "Masti Curd 5kg 1pc",
     price: 390,
     mrp: 420,
-    image: "https://amul.com/files/products/cheese.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/mastiMatka.png",
     category: "dairy",
     inStock: true
   },
@@ -616,7 +616,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
 export const CATEGORY_CONFIG = {
   loose: {
     label: "Loose Paawan Products",
-    emoji: "🥛",
+    emoji: "🧀",
     description: "Fresh Paneer, Dahi, Khoya & more",
     gradient: "from-purple-50 to-purple-100",
     iconBg: "bg-primary/10",
@@ -630,7 +630,7 @@ export const CATEGORY_CONFIG = {
   },
   butterNcream: {
     label: "Butter & Cream",
-    emoji: "🥛",
+    emoji: "🧈",
     description: "Fresh butter and cream products",
     gradient: "from-purple-50 to-purple-100",
     iconBg: "bg-primary/10",
