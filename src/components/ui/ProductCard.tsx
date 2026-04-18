@@ -20,6 +20,7 @@ export default function ProductCard({ product }: ProductCardProps) {
       <div className="relative w-full aspect-[4/3] bg-gray-50">
         <Image
           src={product.image}
+          loading="lazy" decoding="async" 
           alt={product.name}
           fill
           className="object-cover"

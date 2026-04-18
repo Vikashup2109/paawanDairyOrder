@@ -332,7 +332,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Salted Butter 100g 150pcs",
     price: 8100,
     mrp: 8700,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/ab100gm.png",
     category: "butterNcream",
     inStock: true
   },
@@ -342,7 +342,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Salted Butter 20g 16pkt",
     price: 8640,
     mrp: 9440,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/ab20gm.png",
     category: "butterNcream",
     inStock: true
   },
@@ -362,27 +362,27 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Salted Butter 10g 10pkt",
     price: 5900,
     mrp: 6300,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/ab10gm.png",
     category: "butterNcream",
     inStock: true
   },
   {
     id: "amul-bt5",
-    name: "Amul Unsalted Butter 100g",
-    subtitle: "Unsalted Butter 100g 150pcs",
+    name: "Amul White Butter 100g",
+    subtitle: "White Butter 100g 150pcs",
     price: 9300,
     mrp: 10050,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/abw100gm.png",
     category: "butterNcream",
     inStock: true
   },
   {
     id: "amul-bt6",
-    name: "Amul Unsalted Butter 500g",
-    subtitle: "Unsalted Butter 500g 30pcs",
+    name: "Amul White Butter 500g",
+    subtitle: "White Butter 500g 30pcs",
     price: 9150,
     mrp: 9900,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/abw500gm.png",
     category: "butterNcream",
     inStock: true
   },
@@ -392,7 +392,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Fresh Cream 250ml 32pcs",
     price: 2208,
     mrp: 2304,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/ac250gm.png",
     category: "butterNcream",
     inStock: true
   },
@@ -422,7 +422,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Fat Spread 100g 150pcs",
     price: 2850,
     mrp: 3300,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/dc100gm.png",
     category: "butterNcream",
     inStock: true
   },
@@ -454,7 +454,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Spiced Chhach 200ml 30pcs",
     price: 405,
     mrp: 450,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/tadkatp.png",
     category: "beverages",
     inStock: true
   },
@@ -504,7 +504,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Elaichi Milk 180ml 30pcs",
     price: 720,
     mrp: 900,
-    image: "https://amul.com/files/products/lassi.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/elaichi.png",
     category: "beverages",
     inStock: true
   },

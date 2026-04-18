@@ -156,7 +156,7 @@ export default function CartPage() {
                 {state.items.map(({ product, quantity }) => (
                   <div key={product.id} className="bg-white rounded-2xl p-3.5 shadow-sm border border-gray-100 flex gap-3">
                     <div className="relative w-16 h-16 rounded-xl overflow-hidden flex-shrink-0 bg-gray-50">
-                      <Image src={product.image} alt={product.name} fill className="object-cover" unoptimized />
+                      <Image src={product.image} loading="lazy" decoding="async"  alt={product.name} fill className="object-cover" unoptimized />
                     </div>
                     <div className="flex-1 min-w-0">
                       <p className="font-display font-700 text-gray-900 text-sm line-clamp-1">{product.name}</p>

@@ -70,7 +70,7 @@ export default function CartDrawer() {
             state.items.map(({ product, quantity }) => (
               <div key={product.id} className="flex items-center gap-3 bg-gray-50 rounded-2xl p-2.5">
                 <div className="relative w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 bg-white">
-                  <Image src={product.image} alt={product.name} fill className="object-cover" unoptimized />
+                  <Image src={product.image} loading="lazy" decoding="async"  alt={product.name} fill className="object-cover" unoptimized />
                 </div>
                 <div className="flex-1 min-w-0">
                   <p className="font-display font-700 text-gray-900 text-sm line-clamp-1">{product.name}</p>

@@ -11,7 +11,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-40 bg-white border-b border-gray-100 shadow-sm">
       <div className="max-w-md mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <Image src={paawanLogo} alt="Paawan Dairy Logo" width={32} height={32} className="rounded-xl" />
+          <Image src={paawanLogo} loading="lazy" decoding="async"  alt="Paawan Dairy Logo" width={32} height={32} className="rounded-xl" />
           <div className="leading-tight">
             <p className="font-display font-900 text-primary text-base leading-none">Paawan</p>
             <p className="font-display font-700 text-accent text-xs leading-tight tracking-widest uppercase">Dairy</p>
