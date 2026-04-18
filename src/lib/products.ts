@@ -188,7 +188,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Fresh Curd 5kg 1pc",
     price: 230,
     mrp: 280,
-    image: "https://amul.com/files/products/amul-gold.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/MadhuvanCurd.png",
     category: "loose",
     inStock: true
   },
@@ -352,7 +352,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Salted Butter 500g 30pcs",
     price: 8250,
     mrp: 8850,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/Butter500gm.png",
     category: "butterNcream",
     inStock: true
   },
@@ -402,7 +402,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Fresh Cream 1L 12pcs",
     price: 2760,
     mrp: 2880,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/Cream.png",
     category: "butterNcream",
     inStock: true
   },
@@ -412,7 +412,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Fat Spread 500g 30pcs",
     price: 2700,
     mrp: 3150,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/Delicious.png",
     category: "butterNcream",
     inStock: true
   },
@@ -432,7 +432,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Processed Cheese 1kg 1pc",
     price: 490,
     mrp: 550,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/Block.png",
     category: "butterNcream",
     inStock: true
   },
@@ -442,7 +442,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Cheese Slice 750g 1pc",
     price: 450,
     mrp: 500,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/Slice.png",
     category: "butterNcream",
     inStock: true
   },
@@ -464,7 +464,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Premium Chhach 200ml 30pcs",
     price: 480,
     mrp: 600,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/amulbuttermilk.png",
     category: "beverages",
     inStock: true
   },
@@ -474,7 +474,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Sweet Lassi 200ml 30pcs",
     price: 720,
     mrp: 800,
-    image: "https://amul.com/files/products/masti.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/amullassiplain.png",
     category: "beverages",
     inStock: true
   },
@@ -484,7 +484,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Rose Lassi 200ml 30pcs",
     price: 645,
     mrp: 750,
-    image: "https://amul.com/files/products/lassi.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/roseLassi.png",
     category: "beverages",
     inStock: true
   },
@@ -494,9 +494,9 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Kesar Milk 180ml 30pcs",
     price: 720,
     mrp: 900,
-    image: "https://amul.com/files/products/lassi.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/koolKesar.png",
     category: "beverages",
-    inStock: true
+    inStock: true 
   },
   {
     id: "amul-b6",
@@ -514,7 +514,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Chocolate Milk 200ml 30pcs",
     price: 1050,
     mrp: 1800,
-    image: "https://amul.com/files/products/lassi.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/koko.png",
     category: "beverages",
     inStock: true
   },
@@ -524,7 +524,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Badam Milk 180ml 30pcs",
     price: 1200,
     mrp: 1500,
-    image: "https://amul.com/files/products/kool-badam.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/badam.png",
     category: "beverages",
     inStock: true
   },
@@ -534,7 +534,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Cold Coffee 180ml 24pcs",
     price: 900,
     mrp: 1800,
-    image: "https://amul.com/files/products/kool-coffee.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/cafe.png",
     category: "beverages",
     inStock: true
   },
@@ -546,7 +546,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Fresh Matar 5kg 1pc",
     price: 320,
     mrp: 380,
-    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/matar.svg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/GreanPeas%20(1).png",
     category: "frozen",
     inStock: true
   },
@@ -556,7 +556,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Sweet Corn 1kg 5pcs",
     price: 110,
     mrp: 180,
-    image: "https://amul.com/files/products/vanilla.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/SweetCorn.png",
     category: "frozen",
     inStock: true
   },
@@ -606,7 +606,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "French Fries 2.5kg 1pc",
     price: 140,
     mrp: 180,
-    image: "https://amul.com/files/products/chocolate.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/FrenchFriesI.png",
     category: "frozen",
     inStock: true
   }
