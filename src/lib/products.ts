@@ -566,7 +566,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Strawberry Ice 5L 1pc",
     price: 500,
     mrp: 550,
-    image: "https://amul.com/files/products/vanilla.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/iceCreamStrawberry.png",
     category: "frozen",
     inStock: true
   },
@@ -576,7 +576,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Vanilla Ice 5L 1pc",
     price: 540,
     mrp: 550,
-    image: "https://amul.com/files/products/vanilla.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/iceCreamVanilla.png",
     category: "frozen",
     inStock: true
   },
@@ -586,7 +586,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Chocolate Ice 5L 1pc",
     price: 600,
     mrp: 620,
-    image: "https://amul.com/files/products/chocolate.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/icecream%20chocolate.png",
     category: "frozen",
     inStock: true
   },
@@ -596,7 +596,7 @@ export const FALLBACK_PRODUCTS: Product[] = [
     subtitle: "Butterscotch Ice 5L 1pc",
     price: 600,
     mrp: 620,
-    image: "https://amul.com/files/products/chocolate.jpg",
+    image: "https://kuvmbhsqvydimdilpffm.supabase.co/storage/v1/object/public/Images/icecreamButterScotch.png",
     category: "frozen",
     inStock: true
   },
